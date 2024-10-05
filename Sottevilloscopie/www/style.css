@@ -1,0 +1,79 @@
+/* Déclaration des couleurs dans des variables */
+/* Centrer le corps du texte et les titres */
+p{
+    width: 70%; /* Limiter la largeur à 70% */
+    margin: 0 auto; /* Centrer horizontalement */
+    text-align: justify; /* Justifier le texte */
+    margin: 0; /* Supprimer les marges par défaut pour un meilleur alignement */
+    line-height: 1.6; 
+}
+
+.titre-general {
+    text-align: center; /* Centrer le titre */
+    font-size: 2em; /* Taille du titre */
+    margin-bottom: 20px; /* Espacement en bas du titre */
+}
+
+h1, h2, h3, h4, h5 {
+    margin-left: 15%;
+
+   width: 70%; /* Limiter la largeur à 70% */
+  text-align: center; /* Centrer tous les titres de niveau h3 à h5 */
+}
+p {
+  margin-left: 15%;
+    justify-content: center; /* Centrer horizontalement */
+}
+
+.navbar-nav li{
+  
+}
+:root {
+    --primary-color: #feea18;  /* Exemple de bleu */
+    --secondary-color: #D0021B; /* Exemple de rouge */
+}
+
+.navbar {
+    background-color: var(--primary-color);
+    border: none;
+}
+
+.navbar .navbar-brand {
+    color: white !important;
+    font-size: 1.5em;
+}
+
+.navbar .navbar-nav > li > a {
+    color: white !important;
+    font-size: 1.1em;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar .navbar-nav > li > a:hover {
+    background-color: var(--secondary-color);
+    color: white !important;
+}
+
+.navbar .navbar-nav > li.active > a {
+    background-color: var(--secondary-color);
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar .navbar-toggle {
+    background-color: var(--secondary-color);
+}
+
+.navbar .navbar-toggle:hover {
+    background-color: var(--primary-color);
+}
+
+/* Pour améliorer l'apparence du logo */
+.logo {
+    margin-right: 10px; /* Espace entre le logo et le titre */
+}
+
+/* Pour l'espacement des éléments de la navbar */
+.navbar-nav {
+    margin-left: auto; /* Aligne les éléments à droite */
+}

@@ -1,0 +1,561 @@
+annee,classe,type_ville,taux,POP,CODGEO_2024
+"16",Coups et blessures volontaires,Commune rurale,9.05854043987983e-05,"15223203",NA
+"16",Coups et blessures volontaires,Grande ville,0.00483998211855719,"6704157",NA
+"16",Coups et blessures volontaires,Petite ville,0.00241987117606575,"25353829",NA
+"16",Coups et blessures volontaires,Très grande ville,0.00496273810389213,"11967990",NA
+"16",Coups et blessures volontaires,ville moyenne,0.00431910090580522,"10937230",NA
+"16",Coups et blessures volontaires intrafamiliaux,Commune rurale,2.75894632686695e-06,"15223203",NA
+"16",Coups et blessures volontaires intrafamiliaux,Grande ville,0.0020734896274058,"6704157",NA
+"16",Coups et blessures volontaires intrafamiliaux,Petite ville,0.000853441111399781,"25353829",NA
+"16",Coups et blessures volontaires intrafamiliaux,Très grande ville,0.00171992122319621,"11967990",NA
+"16",Coups et blessures volontaires intrafamiliaux,ville moyenne,0.00189398961162927,"10937230",NA
+"16",Autres coups et blessures volontaires,Commune rurale,2.12176110375721e-05,"15223203",NA
+"16",Autres coups et blessures volontaires,Grande ville,0.00276649249115139,"6704157",NA
+"16",Autres coups et blessures volontaires,Petite ville,0.00110014940938507,"25353829",NA
+"16",Autres coups et blessures volontaires,Très grande ville,0.00324281688069592,"11967990",NA
+"16",Autres coups et blessures volontaires,ville moyenne,0.00242337410843513,"10937230",NA
+"16",Violences sexuelles,Commune rurale,3.94135189552422e-07,"15223203",NA
+"16",Violences sexuelles,Grande ville,0.00094493610456915,"6704157",NA
+"16",Violences sexuelles,Petite ville,0.0003530433213855,"25353829",NA
+"16",Violences sexuelles,Très grande ville,0.00110511455975481,"11967990",NA
+"16",Violences sexuelles,ville moyenne,0.000899496490427649,"10937230",NA
+"16",Vols avec armes,Commune rurale,0,"15223203",NA
+"16",Vols avec armes,Grande ville,0.00039110062607424,"6704157",NA
+"16",Vols avec armes,Petite ville,2.22846024559052e-05,"25353829",NA
+"16",Vols avec armes,Très grande ville,0.000333222203561333,"11967990",NA
+"16",Vols avec armes,ville moyenne,0.000168598447687394,"10937230",NA
+"16",Vols violents sans arme,Commune rurale,5.25513586069896e-07,"15223203",NA
+"16",Vols violents sans arme,Grande ville,0.00335806574935521,"6704157",NA
+"16",Vols violents sans arme,Petite ville,0.000291001410477289,"25353829",NA
+"16",Vols violents sans arme,Très grande ville,0.00493457965790413,"11967990",NA
+"16",Vols violents sans arme,ville moyenne,0.00212055520456276,"10937230",NA
+"16",Vols sans violence contre des personnes,Commune rurale,0.000894883947878774,"15223203",NA
+"16",Vols sans violence contre des personnes,Grande ville,0.0172218520538824,"6704157",NA
+"16",Vols sans violence contre des personnes,Petite ville,0.0067914002259777,"25353829",NA
+"16",Vols sans violence contre des personnes,Très grande ville,0.0321371424942701,"11967990",NA
+"16",Vols sans violence contre des personnes,ville moyenne,0.0139332353804391,"10937230",NA
+"16",Cambriolages de logement,Commune rurale,0.000436110587239755,"15223203",NA
+"16",Cambriolages de logement,Grande ville,0.00414205693571914,"6704157",NA
+"16",Cambriolages de logement,Petite ville,0.00320708954848595,"25353829",NA
+"16",Cambriolages de logement,Très grande ville,0.00473955944147681,"11967990",NA
+"16",Cambriolages de logement,ville moyenne,0.004376610896909,"10937230",NA
+"16",Vols de véhicules,Commune rurale,7.3177766860233e-05,"15223203",NA
+"16",Vols de véhicules,Grande ville,0.00384030385923241,"6704157",NA
+"16",Vols de véhicules,Petite ville,0.00173681852946157,"25353829",NA
+"16",Vols de véhicules,Très grande ville,0.00388912423890729,"11967990",NA
+"16",Vols de véhicules,ville moyenne,0.00337114607629171,"10937230",NA
+"16",Vols dans les véhicules,Commune rurale,0.000343948642082747,"15223203",NA
+"16",Vols dans les véhicules,Grande ville,0.00631787113577442,"6704157",NA
+"16",Vols dans les véhicules,Petite ville,0.00280162810911125,"25353829",NA
+"16",Vols dans les véhicules,Très grande ville,0.0081075435390571,"11967990",NA
+"16",Vols dans les véhicules,ville moyenne,0.00520195698545244,"10937230",NA
+"16",Vols d'accessoires sur véhicules,Commune rurale,7.20610504898345e-05,"15223203",NA
+"16",Vols d'accessoires sur véhicules,Grande ville,0.00199353923244936,"6704157",NA
+"16",Vols d'accessoires sur véhicules,Petite ville,0.00114637516881572,"25353829",NA
+"16",Vols d'accessoires sur véhicules,Très grande ville,0.00191644545157541,"11967990",NA
+"16",Vols d'accessoires sur véhicules,ville moyenne,0.00196942004511197,"10937230",NA
+"16",Destructions et dégradations volontaires,Commune rurale,0.00170220419447865,"15223203",NA
+"16",Destructions et dégradations volontaires,Grande ville,0.012871715265618,"6704157",NA
+"16",Destructions et dégradations volontaires,Petite ville,0.00842649841962727,"25353829",NA
+"16",Destructions et dégradations volontaires,Très grande ville,0.0137944633977802,"11967990",NA
+"16",Destructions et dégradations volontaires,ville moyenne,0.0126062997669428,"10937230",NA
+"16",Trafic de stupéfiants,Commune rurale,1.91812458915512e-05,"15223203",NA
+"16",Trafic de stupéfiants,Grande ville,0.00100847876921737,"6704157",NA
+"16",Trafic de stupéfiants,Petite ville,0.00020809480098647,"25353829",NA
+"16",Trafic de stupéfiants,Très grande ville,0.00106684581120138,"11967990",NA
+"16",Trafic de stupéfiants,ville moyenne,0.000735652445820377,"10937230",NA
+"16",Usage de stupéfiants,Commune rurale,0.000183141484745359,"15223203",NA
+"16",Usage de stupéfiants,Grande ville,0.00406389647497814,"6704157",NA
+"16",Usage de stupéfiants,Petite ville,0.00197354805855952,"25353829",NA
+"16",Usage de stupéfiants,Très grande ville,0.00396457550516001,"11967990",NA
+"16",Usage de stupéfiants,ville moyenne,0.00404361981964355,"10937230",NA
+"17",Coups et blessures volontaires,Commune rurale,9.40211861949547e-05,"15209338",NA
+"17",Coups et blessures volontaires,Grande ville,0.00474012141399087,"6925561",NA
+"17",Coups et blessures volontaires,Petite ville,0.00250503076067746,"25411664",NA
+"17",Coups et blessures volontaires,Très grande ville,0.0050732270432679,"11982117",NA
+"17",Coups et blessures volontaires,ville moyenne,0.00443391574441694,"10819105",NA
+"17",Coups et blessures volontaires intrafamiliaux,Commune rurale,2.56421416895331e-06,"15209338",NA
+"17",Coups et blessures volontaires intrafamiliaux,Grande ville,0.00201398846967054,"6925561",NA
+"17",Coups et blessures volontaires intrafamiliaux,Petite ville,0.000874873837462986,"25411664",NA
+"17",Coups et blessures volontaires intrafamiliaux,Très grande ville,0.00172056407060622,"11982117",NA
+"17",Coups et blessures volontaires intrafamiliaux,ville moyenne,0.0019055180627233,"10819105",NA
+"17",Autres coups et blessures volontaires,Commune rurale,2.47216545519601e-05,"15209338",NA
+"17",Autres coups et blessures volontaires,Grande ville,0.00272613294432032,"6925561",NA
+"17",Autres coups et blessures volontaires,Petite ville,0.00115273836455574,"25411664",NA
+"17",Autres coups et blessures volontaires,Très grande ville,0.00335266297266168,"11982117",NA
+"17",Autres coups et blessures volontaires,ville moyenne,0.00252812039443189,"10819105",NA
+"17",Violences sexuelles,Commune rurale,3.28745406276065e-07,"15209338",NA
+"17",Violences sexuelles,Grande ville,0.00102619845525871,"6925561",NA
+"17",Violences sexuelles,Petite ville,0.000382737627886155,"25411664",NA
+"17",Violences sexuelles,Très grande ville,0.00115413661876278,"11982117",NA
+"17",Violences sexuelles,ville moyenne,0.000960800361952306,"10819105",NA
+"17",Vols avec armes,Commune rurale,0,"15209338",NA
+"17",Vols avec armes,Grande ville,0.000305246029888409,"6925561",NA
+"17",Vols avec armes,Petite ville,1.61343231989845e-05,"25411664",NA
+"17",Vols avec armes,Très grande ville,0.000318975353019838,"11982117",NA
+"17",Vols avec armes,ville moyenne,0.000156020299276142,"10819105",NA
+"17",Vols violents sans arme,Commune rurale,4.60243568786492e-07,"15209338",NA
+"17",Vols violents sans arme,Grande ville,0.00300481072941239,"6925561",NA
+"17",Vols violents sans arme,Petite ville,0.000272315893992617,"25411664",NA
+"17",Vols violents sans arme,Très grande ville,0.00474690741210422,"11982117",NA
+"17",Vols violents sans arme,ville moyenne,0.00198315849601238,"10819105",NA
+"17",Vols sans violence contre des personnes,Commune rurale,0.0009150299638288,"15209338",NA
+"17",Vols sans violence contre des personnes,Grande ville,0.0170939220663857,"6925561",NA
+"17",Vols sans violence contre des personnes,Petite ville,0.00677673055963592,"25411664",NA
+"17",Vols sans violence contre des personnes,Très grande ville,0.0328902647169945,"11982117",NA
+"17",Vols sans violence contre des personnes,ville moyenne,0.0137796056143276,"10819105",NA
+"17",Cambriolages de logement,Commune rurale,0.000454326151473522,"15209338",NA
+"17",Cambriolages de logement,Grande ville,0.00420904530333355,"6925561",NA
+"17",Cambriolages de logement,Petite ville,0.00328459403524303,"25411664",NA
+"17",Cambriolages de logement,Très grande ville,0.00480582855266728,"11982117",NA
+"17",Cambriolages de logement,ville moyenne,0.00433104217030891,"10819105",NA
+"17",Vols de véhicules,Commune rurale,7.37704691683491e-05,"15209338",NA
+"17",Vols de véhicules,Grande ville,0.00351509430066387,"6925561",NA
+"17",Vols de véhicules,Petite ville,0.00162976340313645,"25411664",NA
+"17",Vols de véhicules,Très grande ville,0.00360912850375272,"11982117",NA
+"17",Vols de véhicules,ville moyenne,0.00317928331410038,"10819105",NA
+"17",Vols dans les véhicules,Commune rurale,0.00033939675743941,"15209338",NA
+"17",Vols dans les véhicules,Grande ville,0.00610448741986389,"6925561",NA
+"17",Vols dans les véhicules,Petite ville,0.00269451067824602,"25411664",NA
+"17",Vols dans les véhicules,Très grande ville,0.0084716248389162,"11982117",NA
+"17",Vols dans les véhicules,ville moyenne,0.00525699676636838,"10819105",NA
+"17",Vols d'accessoires sur véhicules,Commune rurale,7.71894213936202e-05,"15209338",NA
+"17",Vols d'accessoires sur véhicules,Grande ville,0.00187955892670644,"6925561",NA
+"17",Vols d'accessoires sur véhicules,Petite ville,0.00108505291113561,"25411664",NA
+"17",Vols d'accessoires sur véhicules,Très grande ville,0.00182805759616602,"11982117",NA
+"17",Vols d'accessoires sur véhicules,ville moyenne,0.00190810607716627,"10819105",NA
+"17",Destructions et dégradations volontaires,Commune rurale,0.00171631401708608,"15209338",NA
+"17",Destructions et dégradations volontaires,Grande ville,0.0126319008669478,"6925561",NA
+"17",Destructions et dégradations volontaires,Petite ville,0.00849173041167237,"25411664",NA
+"17",Destructions et dégradations volontaires,Très grande ville,0.0134374418143305,"11982117",NA
+"17",Destructions et dégradations volontaires,ville moyenne,0.0124297712241447,"10819105",NA
+"17",Trafic de stupéfiants,Commune rurale,1.73577574513763e-05,"15209338",NA
+"17",Trafic de stupéfiants,Grande ville,0.00119008409571441,"6925561",NA
+"17",Trafic de stupéfiants,Petite ville,0.00019927856751136,"25411664",NA
+"17",Trafic de stupéfiants,Très grande ville,0.00122257193783035,"11982117",NA
+"17",Trafic de stupéfiants,ville moyenne,0.000774186034796778,"10819105",NA
+"17",Usage de stupéfiants,Commune rurale,0.000175550046951419,"15209338",NA
+"17",Usage de stupéfiants,Grande ville,0.00425972711813527,"6925561",NA
+"17",Usage de stupéfiants,Petite ville,0.00195146606692108,"25411664",NA
+"17",Usage de stupéfiants,Très grande ville,0.00411605061108984,"11982117",NA
+"17",Usage de stupéfiants,ville moyenne,0.00419276825578456,"10819105",NA
+"18",Coups et blessures volontaires,Commune rurale,9.61622934588271e-05,"15161868",NA
+"18",Coups et blessures volontaires,Grande ville,0.00506629118331219,"6949265",NA
+"18",Coups et blessures volontaires,Petite ville,0.00263984673142724,"25504511",NA
+"18",Coups et blessures volontaires,Très grande ville,0.00526372052394766,"12011276",NA
+"18",Coups et blessures volontaires,ville moyenne,0.00464435974098573,"10924649",NA
+"18",Coups et blessures volontaires intrafamiliaux,Commune rurale,2.44033255005254e-06,"15161868",NA
+"18",Coups et blessures volontaires intrafamiliaux,Grande ville,0.00217605746794805,"6949265",NA
+"18",Coups et blessures volontaires intrafamiliaux,Petite ville,0.000940774751572379,"25504511",NA
+"18",Coups et blessures volontaires intrafamiliaux,Très grande ville,0.00182420252436128,"12011276",NA
+"18",Coups et blessures volontaires intrafamiliaux,ville moyenne,0.00201590000740527,"10924649",NA
+"18",Autres coups et blessures volontaires,Commune rurale,2.35459113613177e-05,"15161868",NA
+"18",Autres coups et blessures volontaires,Grande ville,0.00289023371536414,"6949265",NA
+"18",Autres coups et blessures volontaires,Petite ville,0.00119371039891727,"25504511",NA
+"18",Autres coups et blessures volontaires,Très grande ville,0.00343951799958639,"12011276",NA
+"18",Autres coups et blessures volontaires,ville moyenne,0.00262745283624215,"10924649",NA
+"18",Violences sexuelles,Commune rurale,3.95729602711223e-07,"15161868",NA
+"18",Violences sexuelles,Grande ville,0.00121336573004483,"6949265",NA
+"18",Violences sexuelles,Petite ville,0.000440549516907029,"25504511",NA
+"18",Violences sexuelles,Très grande ville,0.00137437521209237,"12011276",NA
+"18",Violences sexuelles,ville moyenne,0.00113477330026805,"10924649",NA
+"18",Vols avec armes,Commune rurale,0,"15161868",NA
+"18",Vols avec armes,Grande ville,0.000284346617951683,"6949265",NA
+"18",Vols avec armes,Petite ville,1.65068838214542e-05,"25504511",NA
+"18",Vols avec armes,Très grande ville,0.000312706160444569,"12011276",NA
+"18",Vols avec armes,ville moyenne,0.000134466562724349,"10924649",NA
+"18",Vols violents sans arme,Commune rurale,3.95729602711223e-07,"15161868",NA
+"18",Vols violents sans arme,Grande ville,0.00274331170274842,"6949265",NA
+"18",Vols violents sans arme,Petite ville,0.000248465849825547,"25504511",NA
+"18",Vols violents sans arme,Très grande ville,0.00469625375355624,"12011276",NA
+"18",Vols violents sans arme,ville moyenne,0.00176719636484431,"10924649",NA
+"18",Vols sans violence contre des personnes,Commune rurale,0.000856424815200871,"15161868",NA
+"18",Vols sans violence contre des personnes,Grande ville,0.0167853722659878,"6949265",NA
+"18",Vols sans violence contre des personnes,Petite ville,0.00651100505318451,"25504511",NA
+"18",Vols sans violence contre des personnes,Très grande ville,0.0336393901863549,"12011276",NA
+"18",Vols sans violence contre des personnes,ville moyenne,0.013240699998691,"10924649",NA
+"18",Cambriolages de logement,Commune rurale,0.00040634834705064,"15161868",NA
+"18",Cambriolages de logement,Grande ville,0.00390847089584294,"6949265",NA
+"18",Cambriolages de logement,Petite ville,0.00302852307185972,"25504511",NA
+"18",Cambriolages de logement,Très grande ville,0.00492295739436843,"12011276",NA
+"18",Cambriolages de logement,ville moyenne,0.00408690476005224,"10924649",NA
+"18",Vols de véhicules,Commune rurale,6.98462748785308e-05,"15161868",NA
+"18",Vols de véhicules,Grande ville,0.00331603414174017,"6949265",NA
+"18",Vols de véhicules,Petite ville,0.00148914833144615,"25504511",NA
+"18",Vols de véhicules,Très grande ville,0.00348647387671385,"12011276",NA
+"18",Vols de véhicules,ville moyenne,0.00283313450162106,"10924649",NA
+"18",Vols dans les véhicules,Commune rurale,0.000314868853890563,"15161868",NA
+"18",Vols dans les véhicules,Grande ville,0.00607934795982021,"6949265",NA
+"18",Vols dans les véhicules,Petite ville,0.0025851113161903,"25504511",NA
+"18",Vols dans les véhicules,Très grande ville,0.00899105140869296,"12011276",NA
+"18",Vols dans les véhicules,ville moyenne,0.00497691047099088,"10924649",NA
+"18",Vols d'accessoires sur véhicules,Commune rurale,6.97143650109604e-05,"15161868",NA
+"18",Vols d'accessoires sur véhicules,Grande ville,0.00182407779815563,"6949265",NA
+"18",Vols d'accessoires sur véhicules,Petite ville,0.000999862338078154,"25504511",NA
+"18",Vols d'accessoires sur véhicules,Très grande ville,0.00165436211773004,"12011276",NA
+"18",Vols d'accessoires sur véhicules,ville moyenne,0.00169250288956652,"10924649",NA
+"18",Destructions et dégradations volontaires,Commune rurale,0.00164979671370309,"15161868",NA
+"18",Destructions et dégradations volontaires,Grande ville,0.0116812353536669,"6949265",NA
+"18",Destructions et dégradations volontaires,Petite ville,0.00814197143399456,"25504511",NA
+"18",Destructions et dégradations volontaires,Très grande ville,0.0131920205646761,"12011276",NA
+"18",Destructions et dégradations volontaires,ville moyenne,0.0118050474665136,"10924649",NA
+"18",Trafic de stupéfiants,Commune rurale,1.89950209301387e-05,"15161868",NA
+"18",Trafic de stupéfiants,Grande ville,0.00123279224493526,"6949265",NA
+"18",Trafic de stupéfiants,Petite ville,0.000182634358290578,"25504511",NA
+"18",Trafic de stupéfiants,Très grande ville,0.00139710385474449,"12011276",NA
+"18",Trafic de stupéfiants,ville moyenne,0.000835633254670242,"10924649",NA
+"18",Usage de stupéfiants,Commune rurale,0.000170757323569893,"15161868",NA
+"18",Usage de stupéfiants,Grande ville,0.0042001564194199,"6949265",NA
+"18",Usage de stupéfiants,Petite ville,0.00191511219329004,"25504511",NA
+"18",Usage de stupéfiants,Très grande ville,0.00405086020835755,"12011276",NA
+"18",Usage de stupéfiants,ville moyenne,0.00418878446346423,"10924649",NA
+"19",Coups et blessures volontaires,Commune rurale,0.000116003349035184,"15137494",NA
+"19",Coups et blessures volontaires,Grande ville,0.00538110294985511,"6922001",NA
+"19",Coups et blessures volontaires,Petite ville,0.0028854079987125,"25624799",NA
+"19",Coups et blessures volontaires,Très grande ville,0.00548850881061015,"12053365",NA
+"19",Coups et blessures volontaires,ville moyenne,0.00482470111061562,"11066385",NA
+"19",Coups et blessures volontaires intrafamiliaux,Commune rurale,2.84062870644243e-06,"15137494",NA
+"19",Coups et blessures volontaires intrafamiliaux,Grande ville,0.00248107447542986,"6922001",NA
+"19",Coups et blessures volontaires intrafamiliaux,Petite ville,0.0011176282787623,"25624799",NA
+"19",Coups et blessures volontaires intrafamiliaux,Très grande ville,0.00201935310181016,"12053365",NA
+"19",Coups et blessures volontaires intrafamiliaux,ville moyenne,0.00225240672541214,"11066385",NA
+"19",Autres coups et blessures volontaires,Commune rurale,2.82081036663004e-05,"15137494",NA
+"19",Autres coups et blessures volontaires,Grande ville,0.00290002847442524,"6922001",NA
+"19",Autres coups et blessures volontaires,Petite ville,0.00121253634028505,"25624799",NA
+"19",Autres coups et blessures volontaires,Très grande ville,0.00346915570879999,"12053365",NA
+"19",Autres coups et blessures volontaires,ville moyenne,0.00257102929276363,"11066385",NA
+"19",Violences sexuelles,Commune rurale,6.60611327079634e-07,"15137494",NA
+"19",Violences sexuelles,Grande ville,0.00134123066437003,"6922001",NA
+"19",Violences sexuelles,Petite ville,0.000536043229061036,"25624799",NA
+"19",Violences sexuelles,Très grande ville,0.00149111887012465,"12053365",NA
+"19",Violences sexuelles,ville moyenne,0.00124006168229282,"11066385",NA
+"19",Vols avec armes,Commune rurale,0,"15137494",NA
+"19",Vols avec armes,Grande ville,0.000286911255863731,"6922001",NA
+"19",Vols avec armes,Petite ville,1.68586688231194e-05,"25624799",NA
+"19",Vols avec armes,Très grande ville,0.000309374187208302,"12053365",NA
+"19",Vols avec armes,ville moyenne,0.000133738343641578,"11066385",NA
+"19",Vols violents sans arme,Commune rurale,3.30305663539817e-07,"15137494",NA
+"19",Vols violents sans arme,Grande ville,0.00264518886951909,"6922001",NA
+"19",Vols violents sans arme,Petite ville,0.000229074967573404,"25624799",NA
+"19",Vols violents sans arme,Très grande ville,0.00472175197548568,"12053365",NA
+"19",Vols violents sans arme,ville moyenne,0.00169639859809685,"11066385",NA
+"19",Vols sans violence contre des personnes,Commune rurale,0.000803831862790499,"15137494",NA
+"19",Vols sans violence contre des personnes,Grande ville,0.0170667412501096,"6922001",NA
+"19",Vols sans violence contre des personnes,Petite ville,0.00637378658072596,"25624799",NA
+"19",Vols sans violence contre des personnes,Très grande ville,0.0364348876848913,"12053365",NA
+"19",Vols sans violence contre des personnes,ville moyenne,0.0138906246258376,"11066385",NA
+"19",Cambriolages de logement,Commune rurale,0.000373179338667285,"15137494",NA
+"19",Cambriolages de logement,Grande ville,0.00390739614166482,"6922001",NA
+"19",Cambriolages de logement,Petite ville,0.00299826742055616,"25624799",NA
+"19",Cambriolages de logement,Très grande ville,0.00496881991045654,"12053365",NA
+"19",Cambriolages de logement,ville moyenne,0.00401431903914422,"11066385",NA
+"19",Vols de véhicules,Commune rurale,4.30718585255922e-05,"15137494",NA
+"19",Vols de véhicules,Grande ville,0.00327896514317175,"6922001",NA
+"19",Vols de véhicules,Petite ville,0.00139517191920218,"25624799",NA
+"19",Vols de véhicules,Très grande ville,0.00358646734750006,"12053365",NA
+"19",Vols de véhicules,ville moyenne,0.00278202863898193,"11066385",NA
+"19",Vols dans les véhicules,Commune rurale,0.000274484006401588,"15137494",NA
+"19",Vols dans les véhicules,Grande ville,0.00593542243059485,"6922001",NA
+"19",Vols dans les véhicules,Petite ville,0.00253321011415543,"25624799",NA
+"19",Vols dans les véhicules,Très grande ville,0.00925467701343152,"12053365",NA
+"19",Vols dans les véhicules,ville moyenne,0.00490060665700678,"11066385",NA
+"19",Vols d'accessoires sur véhicules,Commune rurale,7.0487228599397e-05,"15137494",NA
+"19",Vols d'accessoires sur véhicules,Grande ville,0.00170066430212882,"6922001",NA
+"19",Vols d'accessoires sur véhicules,Petite ville,0.000926524340737268,"25624799",NA
+"19",Vols d'accessoires sur véhicules,Très grande ville,0.00155052136892893,"12053365",NA
+"19",Vols d'accessoires sur véhicules,ville moyenne,0.00157422681390535,"11066385",NA
+"19",Destructions et dégradations volontaires,Commune rurale,0.00157331193657286,"15137494",NA
+"19",Destructions et dégradations volontaires,Grande ville,0.0119229974107198,"6922001",NA
+"19",Destructions et dégradations volontaires,Petite ville,0.00798714557721994,"25624799",NA
+"19",Destructions et dégradations volontaires,Très grande ville,0.0133556894692893,"12053365",NA
+"19",Destructions et dégradations volontaires,ville moyenne,0.0118128910208709,"11066385",NA
+"19",Trafic de stupéfiants,Commune rurale,1.79686280965661e-05,"15137494",NA
+"19",Trafic de stupéfiants,Grande ville,0.00132114976579749,"6922001",NA
+"19",Trafic de stupéfiants,Petite ville,0.000196333247335911,"25624799",NA
+"19",Trafic de stupéfiants,Très grande ville,0.00141255159866145,"12053365",NA
+"19",Trafic de stupéfiants,ville moyenne,0.000864419591402251,"11066385",NA
+"19",Usage de stupéfiants,Commune rurale,0.0001725516786332,"15137494",NA
+"19",Usage de stupéfiants,Grande ville,0.00382374980876195,"6922001",NA
+"19",Usage de stupéfiants,Petite ville,0.00182514602358442,"25624799",NA
+"19",Usage de stupéfiants,Très grande ville,0.00382291584134389,"12053365",NA
+"19",Usage de stupéfiants,ville moyenne,0.00389006888880154,"11066385",NA
+"20",Coups et blessures volontaires,Commune rurale,0.000135587050198075,"15097312",NA
+"20",Coups et blessures volontaires,Grande ville,0.00516944467391512,"6924148",NA
+"20",Coups et blessures volontaires,Petite ville,0.0030035490571169,"25654983",NA
+"20",Coups et blessures volontaires,Très grande ville,0.00513935205757642,"12039650",NA
+"20",Coups et blessures volontaires,ville moyenne,0.00472972504130848,"11241034",NA
+"20",Coups et blessures volontaires intrafamiliaux,Commune rurale,1.00017804493939e-05,"15097312",NA
+"20",Coups et blessures volontaires intrafamiliaux,Grande ville,0.00259555399451312,"6924148",NA
+"20",Coups et blessures volontaires intrafamiliaux,Petite ville,0.00132640898651151,"25654983",NA
+"20",Coups et blessures volontaires intrafamiliaux,Très grande ville,0.00211617447351044,"12039650",NA
+"20",Coups et blessures volontaires intrafamiliaux,ville moyenne,0.00241516928069073,"11241034",NA
+"20",Autres coups et blessures volontaires,Commune rurale,2.27192761201464e-05,"15097312",NA
+"20",Autres coups et blessures volontaires,Grande ville,0.002573890679402,"6924148",NA
+"20",Autres coups et blessures volontaires,Petite ville,0.00111506602830335,"25654983",NA
+"20",Autres coups et blessures volontaires,Très grande ville,0.00302317758406598,"12039650",NA
+"20",Autres coups et blessures volontaires,ville moyenne,0.0023141999214663,"11241034",NA
+"20",Violences sexuelles,Commune rurale,3.64303261401765e-06,"15097312",NA
+"20",Violences sexuelles,Grande ville,0.00128968935961507,"6924148",NA
+"20",Violences sexuelles,Petite ville,0.000600624058102085,"25654983",NA
+"20",Violences sexuelles,Très grande ville,0.00142736707462426,"12039650",NA
+"20",Violences sexuelles,ville moyenne,0.00122551003759974,"11241034",NA
+"20",Vols avec armes,Commune rurale,0,"15097312",NA
+"20",Vols avec armes,Grande ville,0.000274113147205981,"6924148",NA
+"20",Vols avec armes,Petite ville,1.84369640782845e-05,"25654983",NA
+"20",Vols avec armes,Très grande ville,0.000268778577450341,"12039650",NA
+"20",Vols avec armes,ville moyenne,0.0001159146035854,"11241034",NA
+"20",Vols violents sans arme,Commune rurale,0,"15097312",NA
+"20",Vols violents sans arme,Grande ville,0.00212026086097524,"6924148",NA
+"20",Vols violents sans arme,Petite ville,0.000167998552172106,"25654983",NA
+"20",Vols violents sans arme,Très grande ville,0.00382876578638083,"12039650",NA
+"20",Vols violents sans arme,ville moyenne,0.00142246700792827,"11241034",NA
+"20",Vols sans violence contre des personnes,Commune rurale,0.000530955444253918,"15097312",NA
+"20",Vols sans violence contre des personnes,Grande ville,0.0129163905797508,"6924148",NA
+"20",Vols sans violence contre des personnes,Petite ville,0.00485578181829238,"25654983",NA
+"20",Vols sans violence contre des personnes,Très grande ville,0.0264433766762323,"12039650",NA
+"20",Vols sans violence contre des personnes,ville moyenne,0.0104805305277077,"11241034",NA
+"20",Cambriolages de logement,Commune rurale,0.000237327015564095,"15097312",NA
+"20",Cambriolages de logement,Grande ville,0.00328358088244214,"6924148",NA
+"20",Cambriolages de logement,Petite ville,0.00223110652616687,"25654983",NA
+"20",Cambriolages de logement,Très grande ville,0.00408134787971411,"12039650",NA
+"20",Cambriolages de logement,ville moyenne,0.00331455273598496,"11241034",NA
+"20",Vols de véhicules,Commune rurale,3.30522413526328e-05,"15097312",NA
+"20",Vols de véhicules,Grande ville,0.00292945789142578,"6924148",NA
+"20",Vols de véhicules,Petite ville,0.00113206077743259,"25654983",NA
+"20",Vols de véhicules,Très grande ville,0.00306138467480367,"12039650",NA
+"20",Vols de véhicules,ville moyenne,0.00242121854626541,"11241034",NA
+"20",Vols dans les véhicules,Commune rurale,0.000183410132876634,"15097312",NA
+"20",Vols dans les véhicules,Grande ville,0.00507152648961287,"6924148",NA
+"20",Vols dans les véhicules,Petite ville,0.00198795688151499,"25654983",NA
+"20",Vols dans les véhicules,Très grande ville,0.00793943345529147,"12039650",NA
+"20",Vols dans les véhicules,ville moyenne,0.00413129254835454,"11241034",NA
+"20",Vols d'accessoires sur véhicules,Commune rurale,5.94145500867969e-05,"15097312",NA
+"20",Vols d'accessoires sur véhicules,Grande ville,0.00149462432056623,"6924148",NA
+"20",Vols d'accessoires sur véhicules,Petite ville,0.000716546956979079,"25654983",NA
+"20",Vols d'accessoires sur véhicules,Très grande ville,0.00137628585548583,"12039650",NA
+"20",Vols d'accessoires sur véhicules,ville moyenne,0.00134436031418462,"11241034",NA
+"20",Destructions et dégradations volontaires,Commune rurale,0.00132288449758474,"15097312",NA
+"20",Destructions et dégradations volontaires,Grande ville,0.0103323903532969,"6924148",NA
+"20",Destructions et dégradations volontaires,Petite ville,0.0068959312894497,"25654983",NA
+"20",Destructions et dégradations volontaires,Très grande ville,0.0110882791443273,"12039650",NA
+"20",Destructions et dégradations volontaires,ville moyenne,0.01001171244567,"11241034",NA
+"20",Trafic de stupéfiants,Commune rurale,1.58306326318221e-05,"15097312",NA
+"20",Trafic de stupéfiants,Grande ville,0.00119104906480913,"6924148",NA
+"20",Trafic de stupéfiants,Petite ville,0.000173845369533084,"25654983",NA
+"20",Trafic de stupéfiants,Très grande ville,0.00118616404961938,"12039650",NA
+"20",Trafic de stupéfiants,ville moyenne,0.000779020862315691,"11241034",NA
+"20",Usage de stupéfiants,Commune rurale,0.000172149850251488,"15097312",NA
+"20",Usage de stupéfiants,Grande ville,0.00353054267470886,"6924148",NA
+"20",Usage de stupéfiants,Petite ville,0.00166096387590668,"25654983",NA
+"20",Usage de stupéfiants,Très grande ville,0.00336064586595125,"12039650",NA
+"20",Usage de stupéfiants,ville moyenne,0.00337780314515551,"11241034",NA
+"21",Coups et blessures volontaires,Commune rurale,0.000167706079782886,"15085917",NA
+"21",Coups et blessures volontaires,Grande ville,0.0057923810036538,"7058410",NA
+"21",Coups et blessures volontaires,Petite ville,0.00336740545296617,"25741183",NA
+"21",Coups et blessures volontaires,Très grande ville,0.00561367670422123,"12046294",NA
+"21",Coups et blessures volontaires,ville moyenne,0.00522377582572661,"11261203",NA
+"21",Coups et blessures volontaires intrafamiliaux,Commune rurale,1.39202674918601e-05,"15085917",NA
+"21",Coups et blessures volontaires intrafamiliaux,Grande ville,0.00298735834274291,"7058410",NA
+"21",Coups et blessures volontaires intrafamiliaux,Petite ville,0.00160688030538457,"25741183",NA
+"21",Coups et blessures volontaires intrafamiliaux,Très grande ville,0.00244216187982794,"12046294",NA
+"21",Coups et blessures volontaires intrafamiliaux,ville moyenne,0.00281710577457844,"11261203",NA
+"21",Autres coups et blessures volontaires,Commune rurale,1.80963477394182e-05,"15085917",NA
+"21",Autres coups et blessures volontaires,Grande ville,0.00280502266091088,"7058410",NA
+"21",Autres coups et blessures volontaires,Petite ville,0.00117651935421927,"25741183",NA
+"21",Autres coups et blessures volontaires,Très grande ville,0.00317151482439329,"12046294",NA
+"21",Autres coups et blessures volontaires,ville moyenne,0.00240560444563516,"11261203",NA
+"21",Violences sexuelles,Commune rurale,5.76696796091348e-06,"15085917",NA
+"21",Violences sexuelles,Grande ville,0.00163620418762866,"7058410",NA
+"21",Violences sexuelles,Petite ville,0.000794058299496181,"25741183",NA
+"21",Violences sexuelles,Très grande ville,0.0018252086492327,"12046294",NA
+"21",Violences sexuelles,ville moyenne,0.00152399348453269,"11261203",NA
+"21",Vols avec armes,Commune rurale,0,"15085917",NA
+"21",Vols avec armes,Grande ville,0.000308426401980049,"7058410",NA
+"21",Vols avec armes,Petite ville,2.01233952612046e-05,"25741183",NA
+"21",Vols avec armes,Très grande ville,0.000258668765680134,"12046294",NA
+"21",Vols avec armes,ville moyenne,9.27964800918694e-05,"11261203",NA
+"21",Vols violents sans arme,Commune rurale,0,"15085917",NA
+"21",Vols violents sans arme,Grande ville,0.00207440485888465,"7058410",NA
+"21",Vols violents sans arme,Petite ville,0.000149760016857034,"25741183",NA
+"21",Vols violents sans arme,Très grande ville,0.00357512443246031,"12046294",NA
+"21",Vols violents sans arme,ville moyenne,0.00133253969402736,"11261203",NA
+"21",Vols sans violence contre des personnes,Commune rurale,0.000441206192503909,"15085917",NA
+"21",Vols sans violence contre des personnes,Grande ville,0.0136516580929699,"7058410",NA
+"21",Vols sans violence contre des personnes,Petite ville,0.00506930858616715,"25741183",NA
+"21",Vols sans violence contre des personnes,Très grande ville,0.0273225109730843,"12046294",NA
+"21",Vols sans violence contre des personnes,ville moyenne,0.0113361778488497,"11261203",NA
+"21",Cambriolages de logement,Commune rurale,0.000184874409689514,"15085917",NA
+"21",Cambriolages de logement,Grande ville,0.00336988075218073,"7058410",NA
+"21",Cambriolages de logement,Petite ville,0.0022079016337361,"25741183",NA
+"21",Cambriolages de logement,Très grande ville,0.00398338277315828,"12046294",NA
+"21",Cambriolages de logement,ville moyenne,0.00338977993736548,"11261203",NA
+"21",Vols de véhicules,Commune rurale,2.22061409989197e-05,"15085917",NA
+"21",Vols de véhicules,Grande ville,0.00302745235825065,"7058410",NA
+"21",Vols de véhicules,Petite ville,0.00108235118797765,"25741183",NA
+"21",Vols de véhicules,Très grande ville,0.00306857860185049,"12046294",NA
+"21",Vols de véhicules,ville moyenne,0.00243304378759534,"11261203",NA
+"21",Vols dans les véhicules,Commune rurale,0.000185537279570079,"15085917",NA
+"21",Vols dans les véhicules,Grande ville,0.00528277614930275,"7058410",NA
+"21",Vols dans les véhicules,Petite ville,0.00187586561192623,"25741183",NA
+"21",Vols dans les véhicules,Très grande ville,0.00810946503547066,"12046294",NA
+"21",Vols dans les véhicules,ville moyenne,0.00423960033399629,"11261203",NA
+"21",Vols d'accessoires sur véhicules,Commune rurale,5.004667598264e-05,"15085917",NA
+"21",Vols d'accessoires sur véhicules,Grande ville,0.0015504908329213,"7058410",NA
+"21",Vols d'accessoires sur véhicules,Petite ville,0.000690372311171557,"25741183",NA
+"21",Vols d'accessoires sur véhicules,Très grande ville,0.00143762056612598,"12046294",NA
+"21",Vols d'accessoires sur véhicules,ville moyenne,0.00146574038315445,"11261203",NA
+"21",Destructions et dégradations volontaires,Commune rurale,0.00126674434175927,"15085917",NA
+"21",Destructions et dégradations volontaires,Grande ville,0.0107439210813767,"7058410",NA
+"21",Destructions et dégradations volontaires,Petite ville,0.00707962800311081,"25741183",NA
+"21",Destructions et dégradations volontaires,Très grande ville,0.0110544371571871,"12046294",NA
+"21",Destructions et dégradations volontaires,ville moyenne,0.0100697944970888,"11261203",NA
+"21",Trafic de stupéfiants,Commune rurale,1.98198094288866e-05,"15085917",NA
+"21",Trafic de stupéfiants,Grande ville,0.00144040938398308,"7058410",NA
+"21",Trafic de stupéfiants,Petite ville,0.000165532407737438,"25741183",NA
+"21",Trafic de stupéfiants,Très grande ville,0.00147713479348918,"12046294",NA
+"21",Trafic de stupéfiants,ville moyenne,0.000850619600765566,"11261203",NA
+"21",Usage de stupéfiants,Commune rurale,0.000248178483283449,"15085917",NA
+"21",Usage de stupéfiants,Grande ville,0.00516022730331619,"7058410",NA
+"21",Usage de stupéfiants,Petite ville,0.00207946930799567,"25741183",NA
+"21",Usage de stupéfiants,Très grande ville,0.00542573508499793,"12046294",NA
+"21",Usage de stupéfiants,ville moyenne,0.00510362880413398,"11261203",NA
+"22",Coups et blessures volontaires,Commune rurale,0.000226104916260642,"15085917",NA
+"22",Coups et blessures volontaires,Grande ville,0.00661437915904573,"7058410",NA
+"22",Coups et blessures volontaires,Petite ville,0.00390331710861929,"25741183",NA
+"22",Coups et blessures volontaires,Très grande ville,0.00664494823055124,"12046294",NA
+"22",Coups et blessures volontaires,ville moyenne,0.00600726227917213,"11261203",NA
+"22",Coups et blessures volontaires intrafamiliaux,Commune rurale,2.80393959478897e-05,"15085917",NA
+"22",Coups et blessures volontaires intrafamiliaux,Grande ville,0.00348237067554874,"7058410",NA
+"22",Coups et blessures volontaires intrafamiliaux,Petite ville,0.00197772573234105,"25741183",NA
+"22",Coups et blessures volontaires intrafamiliaux,Très grande ville,0.00289806972999331,"12046294",NA
+"22",Coups et blessures volontaires intrafamiliaux,ville moyenne,0.00329085622557377,"11261203",NA
+"22",Autres coups et blessures volontaires,Commune rurale,1.8494069667757e-05,"15085917",NA
+"22",Autres coups et blessures volontaires,Grande ville,0.00313200848349699,"7058410",NA
+"22",Autres coups et blessures volontaires,Petite ville,0.0013027373295159,"25741183",NA
+"22",Autres coups et blessures volontaires,Très grande ville,0.00374687850055793,"12046294",NA
+"22",Autres coups et blessures volontaires,ville moyenne,0.00271507404670709,"11261203",NA
+"22",Violences sexuelles,Commune rurale,7.95443856677721e-06,"15085917",NA
+"22",Violences sexuelles,Grande ville,0.00176923698113314,"7058410",NA
+"22",Violences sexuelles,Petite ville,0.00092307334903761,"25741183",NA
+"22",Violences sexuelles,Très grande ville,0.00208786204288223,"12046294",NA
+"22",Violences sexuelles,ville moyenne,0.00167166864854492,"11261203",NA
+"22",Vols avec armes,Commune rurale,0,"15085917",NA
+"22",Vols avec armes,Grande ville,0.00030375112808692,"7058410",NA
+"22",Vols avec armes,Petite ville,2.16773253972049e-05,"25741183",NA
+"22",Vols avec armes,Très grande ville,0.000261823262822574,"12046294",NA
+"22",Vols avec armes,ville moyenne,9.98117163858959e-05,"11261203",NA
+"22",Vols violents sans arme,Commune rurale,0,"15085917",NA
+"22",Vols violents sans arme,Grande ville,0.00193017974302995,"7058410",NA
+"22",Vols violents sans arme,Petite ville,0.000138960202411832,"25741183",NA
+"22",Vols violents sans arme,Très grande ville,0.00334866474286615,"12046294",NA
+"22",Vols violents sans arme,ville moyenne,0.00127162257886657,"11261203",NA
+"22",Vols sans violence contre des personnes,Commune rurale,0.000579745997541946,"15085917",NA
+"22",Vols sans violence contre des personnes,Grande ville,0.0155974220823103,"7058410",NA
+"22",Vols sans violence contre des personnes,Petite ville,0.00591418040111055,"25741183",NA
+"22",Vols sans violence contre des personnes,Très grande ville,0.0301127467086558,"12046294",NA
+"22",Vols sans violence contre des personnes,ville moyenne,0.0128227863399674,"11261203",NA
+"22",Cambriolages de logement,Commune rurale,0.000157497883622189,"15085917",NA
+"22",Cambriolages de logement,Grande ville,0.00365918103368889,"7058410",NA
+"22",Cambriolages de logement,Petite ville,0.00244468173820916,"25741183",NA
+"22",Cambriolages de logement,Très grande ville,0.00454222684586645,"12046294",NA
+"22",Cambriolages de logement,ville moyenne,0.00375990025221995,"11261203",NA
+"22",Vols de véhicules,Commune rurale,2.51890554614612e-05,"15085917",NA
+"22",Vols de véhicules,Grande ville,0.00325314057981897,"7058410",NA
+"22",Vols de véhicules,Petite ville,0.00120215920146327,"25741183",NA
+"22",Vols de véhicules,Très grande ville,0.00317035264123555,"12046294",NA
+"22",Vols de véhicules,ville moyenne,0.00263000320658459,"11261203",NA
+"22",Vols dans les véhicules,Commune rurale,0.000176588536182454,"15085917",NA
+"22",Vols dans les véhicules,Grande ville,0.0058837613570195,"7058410",NA
+"22",Vols dans les véhicules,Petite ville,0.00201331073245546,"25741183",NA
+"22",Vols dans les véhicules,Très grande ville,0.00898948672512891,"12046294",NA
+"22",Vols dans les véhicules,ville moyenne,0.00477551110658426,"11261203",NA
+"22",Vols d'accessoires sur véhicules,Commune rurale,7.5500879396327e-05,"15085917",NA
+"22",Vols d'accessoires sur véhicules,Grande ville,0.00186458423355968,"7058410",NA
+"22",Vols d'accessoires sur véhicules,Petite ville,0.000910408818429207,"25741183",NA
+"22",Vols d'accessoires sur véhicules,Très grande ville,0.00168632776188262,"12046294",NA
+"22",Vols d'accessoires sur véhicules,ville moyenne,0.00185566320045913,"11261203",NA
+"22",Destructions et dégradations volontaires,Commune rurale,0.00128278579286894,"15085917",NA
+"22",Destructions et dégradations volontaires,Grande ville,0.0104952815152421,"7058410",NA
+"22",Destructions et dégradations volontaires,Petite ville,0.00725945656809945,"25741183",NA
+"22",Destructions et dégradations volontaires,Très grande ville,0.010863424053904,"12046294",NA
+"22",Destructions et dégradations volontaires,ville moyenne,0.0102168480578851,"11261203",NA
+"22",Trafic de stupéfiants,Commune rurale,1.99523834049995e-05,"15085917",NA
+"22",Trafic de stupéfiants,Grande ville,0.00150727996815147,"7058410",NA
+"22",Trafic de stupéfiants,Petite ville,0.000186782402347243,"25741183",NA
+"22",Trafic de stupéfiants,Très grande ville,0.00163369746745348,"12046294",NA
+"22",Trafic de stupéfiants,ville moyenne,0.000956558548851308,"11261203",NA
+"22",Usage de stupéfiants,Commune rurale,0.000285166622618963,"15085917",NA
+"22",Usage de stupéfiants,Grande ville,0.00571956007089415,"7058410",NA
+"22",Usage de stupéfiants,Petite ville,0.00233221604461613,"25741183",NA
+"22",Usage de stupéfiants,Très grande ville,0.00707404285500586,"12046294",NA
+"22",Usage de stupéfiants,ville moyenne,0.00598754857718132,"11261203",NA
+"23",Coups et blessures volontaires,Commune rurale,0.000302401239513647,"15085917",NA
+"23",Coups et blessures volontaires,Grande ville,0.0067386281046298,"7058410",NA
+"23",Coups et blessures volontaires,Petite ville,0.00424071418939837,"25741183",NA
+"23",Coups et blessures volontaires,Très grande ville,0.00663598281762009,"12046294",NA
+"23",Coups et blessures volontaires,ville moyenne,0.0061949864503819,"11261203",NA
+"23",Coups et blessures volontaires intrafamiliaux,Commune rurale,5.78022535852478e-05,"15085917",NA
+"23",Coups et blessures volontaires intrafamiliaux,Grande ville,0.00365563915952743,"7058410",NA
+"23",Coups et blessures volontaires intrafamiliaux,Petite ville,0.00226007483805231,"25741183",NA
+"23",Coups et blessures volontaires intrafamiliaux,Très grande ville,0.00308468313989348,"12046294",NA
+"23",Coups et blessures volontaires intrafamiliaux,ville moyenne,0.00346668113522152,"11261203",NA
+"23",Autres coups et blessures volontaires,Commune rurale,2.30678718436539e-05,"15085917",NA
+"23",Autres coups et blessures volontaires,Grande ville,0.00308298894510237,"7058410",NA
+"23",Autres coups et blessures volontaires,Petite ville,0.00138354169658792,"25741183",NA
+"23",Autres coups et blessures volontaires,Très grande ville,0.00355129967772661,"12046294",NA
+"23",Autres coups et blessures volontaires,ville moyenne,0.00272830531516038,"11261203",NA
+"23",Violences sexuelles,Commune rurale,1.23956667665612e-05,"15085917",NA
+"23",Violences sexuelles,Grande ville,0.00188201025443407,"7058410",NA
+"23",Violences sexuelles,Petite ville,0.00113444669578706,"25741183",NA
+"23",Violences sexuelles,Très grande ville,0.00215418949595618,"12046294",NA
+"23",Violences sexuelles,ville moyenne,0.00180211652343005,"11261203",NA
+"23",Vols avec armes,Commune rurale,0,"15085917",NA
+"23",Vols avec armes,Grande ville,0.000291283731038577,"7058410",NA
+"23",Vols avec armes,Petite ville,2.40082206012055e-05,"25741183",NA
+"23",Vols avec armes,Très grande ville,0.000244224489291063,"12046294",NA
+"23",Vols avec armes,ville moyenne,0.000105938948085742,"11261203",NA
+"23",Vols violents sans arme,Commune rurale,0,"15085917",NA
+"23",Vols violents sans arme,Grande ville,0.00179318005046462,"7058410",NA
+"23",Vols violents sans arme,Petite ville,0.000126684154337429,"25741183",NA
+"23",Vols violents sans arme,Très grande ville,0.00282808970128074,"12046294",NA
+"23",Vols violents sans arme,ville moyenne,0.00115254116278696,"11261203",NA
+"23",Vols sans violence contre des personnes,Commune rurale,0.000595588587687444,"15085917",NA
+"23",Vols sans violence contre des personnes,Grande ville,0.0152021489258912,"7058410",NA
+"23",Vols sans violence contre des personnes,Petite ville,0.00589246422745994,"25741183",NA
+"23",Vols sans violence contre des personnes,Très grande ville,0.0283635780431724,"12046294",NA
+"23",Vols sans violence contre des personnes,ville moyenne,0.0124831245826933,"11261203",NA
+"23",Cambriolages de logement,Commune rurale,0.000195745475730776,"15085917",NA
+"23",Cambriolages de logement,Grande ville,0.00364728033650638,"7058410",NA
+"23",Cambriolages de logement,Petite ville,0.002652791831673,"25741183",NA
+"23",Cambriolages de logement,Très grande ville,0.0044424451204661,"12046294",NA
+"23",Cambriolages de logement,ville moyenne,0.00357785931041293,"11261203",NA
+"23",Vols de véhicules,Commune rurale,2.35318807600493e-05,"15085917",NA
+"23",Vols de véhicules,Grande ville,0.00325498235438293,"7058410",NA
+"23",Vols de véhicules,Petite ville,0.0013342821112767,"25741183",NA
+"23",Vols de véhicules,Très grande ville,0.00308899982019366,"12046294",NA
+"23",Vols de véhicules,ville moyenne,0.00272093487702868,"11261203",NA
+"23",Vols dans les véhicules,Commune rurale,0.000204627932130344,"15085917",NA
+"23",Vols dans les véhicules,Grande ville,0.00623398187410479,"7058410",NA
+"23",Vols dans les véhicules,Petite ville,0.00213972294901909,"25741183",NA
+"23",Vols dans les véhicules,Très grande ville,0.00899388641851178,"12046294",NA
+"23",Vols dans les véhicules,ville moyenne,0.00493792714685989,"11261203",NA
+"23",Vols d'accessoires sur véhicules,Commune rurale,8.15992822975229e-05,"15085917",NA
+"23",Vols d'accessoires sur véhicules,Grande ville,0.0017165338936106,"7058410",NA
+"23",Vols d'accessoires sur véhicules,Petite ville,0.000885312846732802,"25741183",NA
+"23",Vols d'accessoires sur véhicules,Très grande ville,0.0014787120420604,"12046294",NA
+"23",Vols d'accessoires sur véhicules,ville moyenne,0.00163827967580373,"11261203",NA
+"23",Destructions et dégradations volontaires,Commune rurale,0.00132328714257145,"15085917",NA
+"23",Destructions et dégradations volontaires,Grande ville,0.0110495139840276,"7058410",NA
+"23",Destructions et dégradations volontaires,Petite ville,0.00743975131212889,"25741183",NA
+"23",Destructions et dégradations volontaires,Très grande ville,0.011116696969209,"12046294",NA
+"23",Destructions et dégradations volontaires,ville moyenne,0.0105483401728927,"11261203",NA
+"23",Trafic de stupéfiants,Commune rurale,1.55111552052156e-05,"15085917",NA
+"23",Trafic de stupéfiants,Grande ville,0.00157315882755465,"7058410",NA
+"23",Trafic de stupéfiants,Petite ville,0.00017718688375744,"25741183",NA
+"23",Trafic de stupéfiants,Très grande ville,0.00170210024759482,"12046294",NA
+"23",Trafic de stupéfiants,ville moyenne,0.000963751386064171,"11261203",NA
+"23",Usage de stupéfiants,Commune rurale,0.000344095755001171,"15085917",NA
+"23",Usage de stupéfiants,Grande ville,0.00579776465237922,"7058410",NA
+"23",Usage de stupéfiants,Petite ville,0.00257443490456519,"25741183",NA
+"23",Usage de stupéfiants,Très grande ville,0.00748802909840985,"12046294",NA
+"23",Usage de stupéfiants,ville moyenne,0.00587104237442483,"11261203",NA

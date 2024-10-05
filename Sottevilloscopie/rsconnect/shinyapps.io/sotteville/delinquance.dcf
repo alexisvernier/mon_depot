@@ -1,0 +1,10 @@
+name: delinquance
+title:
+username: sotteville
+account: sotteville
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12752192
+bundleId: 9131083
+url: https://sotteville.shinyapps.io/delinquance/
+version: 1
